@@ -1,2 +1,2 @@
 # edufordWebsite
-This is a website devlop using html and css
+i have designed and developed a beautiful template for an educational institution website.
